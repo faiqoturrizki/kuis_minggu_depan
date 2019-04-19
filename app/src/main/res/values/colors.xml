@@ -3,4 +3,12 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="backgroundcard">#11d8e6</color>
+    <color name="putih">#ffffff</color>
+    <color name="tranparan">#74ffffff</color>
+    <color name="kuning_tua">#EDBB00</color>
+    <color name="biru_tua">#004D98</color>
+    <color name="merah_tua">#A50044</color>
+    <color name="merah_terang">#DB0030</color>
+    <color name="kuning_muda">#FFED02</color>
 </resources>
